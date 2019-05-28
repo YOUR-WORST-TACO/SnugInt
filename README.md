@@ -89,4 +89,4 @@ SnugInt_Type_Mismatch_Exception
 ```
 
 ## License
-This project is licensed under the Apache
+This project is licensed under the Apache License Version 2.0 - See the [LICENSE](LICENSE) file for details
