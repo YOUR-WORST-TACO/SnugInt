@@ -50,7 +50,7 @@ try
 ```
 
 ## Exceptions
-You can use the exceptions like to make detecting and handling more specific.
+You can use the exceptions like this to make detecting and handling more specific.
 ```objectivec
 try
 {
